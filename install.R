@@ -18,4 +18,4 @@ install.packages("cluster")
 install.packages("broom")
 install.packages("data.table")
 install.packages("corrplot")
-
+install.packages("usmap")
